@@ -1,0 +1,78 @@
+Bohrungsname,Rechtswert_X,Hochwert_Y,Ansatzhoehe_m_NHN,Tiefe_von_m,Tiefe_bis_m,Schichtdicke_m,Z_Oberkante_m_NHN,Z_Unterkante_m_NHN,Hauptbodenart,Beschreibung_Detail,kf_Wert_HKA1997,Projekt
+2919_08_0977,"32,491,899.94","5,882,016.92",2.35,0.00,2.00,2.00,2.35,0.35,Feinsand,"Feinsand, mittelsandig",4 – mäßig,"Club zur Vahr, Bgm. Spitta-Allee 34"
+2919_08_0977,"32,491,899.94","5,882,016.92",2.35,2.00,18.00,16.00,0.35,-15.65,Mittelsand,"Mittelsand, grobsandig (sehr stark)",3 – mittel,"Club zur Vahr, Bgm. Spitta-Allee 34"
+2919_08_0977,"32,491,899.94","5,882,016.92",2.35,18.00,24.00,6.00,-15.65,-21.65,Feinsand,Feinsand,4 – mäßig,"Club zur Vahr, Bgm. Spitta-Allee 34"
+2919_08_0977,"32,491,899.94","5,882,016.92",2.35,24.00,56.00,32.00,-21.65,-53.65,Feinsand,"Feinsand, schluffig",4 – mäßig,"Club zur Vahr, Bgm. Spitta-Allee 34"
+2919_08_0977,"32,491,899.94","5,882,016.92",2.35,56.00,60.00,4.00,-53.65,-57.65,Ton,"Ton, schluffig",5 – gering,"Club zur Vahr, Bgm. Spitta-Allee 34"
+2919_02_1617,"32,491,811.98","5,882,356.79",3.00,0.00,0.40,0.40,3.00,2.60,Schluff,Schluff,6 – sehr gering,Erdwärmesonde
+2919_02_1617,"32,491,811.98","5,882,356.79",3.00,0.40,1.10,0.70,2.60,1.90,Feinsand,Feinsand,4 – mäßig,Erdwärmesonde
+2919_02_1617,"32,491,811.98","5,882,356.79",3.00,1.10,5.50,4.40,1.90,-2.50,Feinsand,"Feinsand, mittelsandig",4 – mäßig,Erdwärmesonde
+2919_02_1617,"32,491,811.98","5,882,356.79",3.00,5.50,6.50,1.00,-2.50,-3.50,Ton,Ton,5 – gering,Erdwärmesonde
+2919_02_1617,"32,491,811.98","5,882,356.79",3.00,6.50,12.20,5.70,-3.50,-9.20,Mittelsand,"Mittelsand, feinsandig (schwach), grobsandig (schwach)",3 – mittel,Erdwärmesonde
+2919_02_1617,"32,491,811.98","5,882,356.79",3.00,12.20,28.60,16.40,-9.20,-25.60,Mittelsand,"Mittelsand, grobsandig, kiesig (stark), ??",3 – mittel,Erdwärmesonde
+2919_02_1617,"32,491,811.98","5,882,356.79",3.00,28.60,57.20,28.60,-25.60,-54.20,Feinsand,"Feinsand, ??",4 – mäßig,Erdwärmesonde
+2919_02_1617,"32,491,811.98","5,882,356.79",3.00,57.20,80.40,23.20,-54.20,-77.40,Feinsand,"Feinsand, mittelsandig (schwach), schluffig (schwach), ??",4 – mäßig,Erdwärmesonde
+2919_02_1617,"32,491,811.98","5,882,356.79",3.00,80.40,112.60,32.20,-77.40,-109.60,Feinsand,"Feinsand, mittelsandig (schwach), tonig (schwach)",4 – mäßig,Erdwärmesonde
+2919_02_1617,"32,491,811.98","5,882,356.79",3.00,112.60,127.00,14.40,-109.60,-124.00,Schluff,"Schluff, feinsandig (schwach)",6 – sehr gering,Erdwärmesonde
+2919_03_0717,"32,491,981.92","5,882,636.68",2.50,0.00,0.30,0.30,2.50,2.20,Feinsand,"Feinsand, schluffig, humos, mittelsandig",4 – mäßig,GeoPlan Bremen
+2919_03_0717,"32,491,981.92","5,882,636.68",2.50,0.30,1.00,0.70,2.20,1.50,Schluff,"Schluff, feinsandig, tonig (schwach), mittelsandig (schwach)",6 – sehr gering,GeoPlan Bremen
+2919_03_0717,"32,491,981.92","5,882,636.68",2.50,1.00,4.50,3.50,1.50,-2.00,Mittelsand,"Mittelsand, feinsandig, grobsandig",3 – mittel,GeoPlan Bremen
+2919_03_0717,"32,491,981.92","5,882,636.68",2.50,4.50,21.00,16.50,-2.00,-18.50,Grobsand,"Grobsand, mittelsandig, feinkiesig, ??",2 – hoch,GeoPlan Bremen
+2919_03_0717,"32,491,981.92","5,882,636.68",2.50,21.00,54.00,33.00,-18.50,-51.50,Feinsand,"Feinsand, mittelsandig, schluffig (schwach), ??",4 – mäßig,GeoPlan Bremen
+2919_03_0979,"32,491,861.96","5,882,571.70",2.00,0.00,0.40,0.40,2.00,1.60,Leerschicht / keine Angabe,Leerschicht / keine Angabe,—,Erdwärmegewinnung
+2919_03_0979,"32,491,861.96","5,882,571.70",2.00,0.40,1.90,1.50,1.60,0.10,Ton,Ton,5 – gering,Erdwärmegewinnung
+2919_03_0979,"32,491,861.96","5,882,571.70",2.00,1.90,5.00,3.10,0.10,-3.00,Feinsand,Feinsand,4 – mäßig,Erdwärmegewinnung
+2919_03_0979,"32,491,861.96","5,882,571.70",2.00,5.00,12.00,7.00,-3.00,-10.00,Feinsand,"Feinsand, mittelsandig (sehr stark)",4 – mäßig,Erdwärmegewinnung
+2919_03_0979,"32,491,861.96","5,882,571.70",2.00,12.00,21.00,9.00,-10.00,-19.00,Mittelsand,"Mittelsand, grobsandig (sehr stark)",3 – mittel,Erdwärmegewinnung
+2919_03_0979,"32,491,861.96","5,882,571.70",2.00,21.00,27.00,6.00,-19.00,-25.00,Mittelsand,"Mittelsand, kiesig (schwach)",3 – mittel,Erdwärmegewinnung
+2919_03_0979,"32,491,861.96","5,882,571.70",2.00,27.00,99.00,72.00,-25.00,-97.00,Feinsand,Feinsand,4 – mäßig,Erdwärmegewinnung
+2919_02_1614,"32,491,895.95","5,882,547.71",2.00,0.00,0.30,0.30,2.00,1.70,Sand,Sand,1 – sehr hoch,Erdwärmesonde Deliusweg
+2919_02_1614,"32,491,895.95","5,882,547.71",2.00,0.30,1.30,1.00,1.70,0.70,Feinsand,"Feinsand, schluffig, mittelsandig (schwach)",4 – mäßig,Erdwärmesonde Deliusweg
+2919_02_1614,"32,491,895.95","5,882,547.71",2.00,1.30,3.00,1.70,0.70,-1.00,Mittelsand,"Mittelsand, feinsandig, grobsandig (schwach), feinkiesig (sehr schwach)",3 – mittel,Erdwärmesonde Deliusweg
+2919_02_1614,"32,491,895.95","5,882,547.71",2.00,3.00,6.00,3.00,-1.00,-4.00,Mittelsand,"Mittelsand, feinsandig (stark)",3 – mittel,Erdwärmesonde Deliusweg
+2919_02_1614,"32,491,895.95","5,882,547.71",2.00,6.00,8.00,2.00,-4.00,-6.00,Mittelsand,"Mittelsand, grobsandig, feinkiesig (sehr schwach)",3 – mittel,Erdwärmesonde Deliusweg
+2919_02_1614,"32,491,895.95","5,882,547.71",2.00,8.00,9.00,1.00,-6.00,-7.00,Leerschicht / keine Angabe,Leerschicht / keine Angabe,—,Erdwärmesonde Deliusweg
+2919_02_1614,"32,491,895.95","5,882,547.71",2.00,9.00,12.00,3.00,-7.00,-10.00,Mittelsand,"Mittelsand, grobsandig, feinkiesig (schwach), feinsandig (schwach)",3 – mittel,Erdwärmesonde Deliusweg
+2919_02_1614,"32,491,895.95","5,882,547.71",2.00,12.00,15.00,3.00,-10.00,-13.00,Grobsand,"Grobsand, kiesig, ??",1 – sehr hoch,Erdwärmesonde Deliusweg
+2919_02_1614,"32,491,895.95","5,882,547.71",2.00,15.00,21.00,6.00,-13.00,-19.00,Mittelsand,"Mittelsand, grobsandig (stark), feinkiesig (schwach)",3 – mittel,Erdwärmesonde Deliusweg
+2919_02_1614,"32,491,895.95","5,882,547.71",2.00,21.00,24.00,3.00,-19.00,-22.00,Grobsand,"Grobsand, mittelsandig (schwach), feinkiesig (schwach)",2 – hoch,Erdwärmesonde Deliusweg
+2919_02_1614,"32,491,895.95","5,882,547.71",2.00,24.00,27.00,3.00,-22.00,-25.00,Kies,"Kies, sandig (schwach), ?? (schwach)",1 – sehr hoch,Erdwärmesonde Deliusweg
+2919_02_1614,"32,491,895.95","5,882,547.71",2.00,27.00,30.00,3.00,-25.00,-28.00,Schluff,"Schluff, kiesig (stark), sandig (schwach)",5 – gering,Erdwärmesonde Deliusweg
+2919_02_1614,"32,491,895.95","5,882,547.71",2.00,30.00,33.00,3.00,-28.00,-31.00,Schluff,"Schluff, feinsandig (schwach)",6 – sehr gering,Erdwärmesonde Deliusweg
+2919_02_1614,"32,491,895.95","5,882,547.71",2.00,33.00,39.00,6.00,-31.00,-37.00,Schluff,"Schluff, kiesig, steinig",6 – sehr gering,Erdwärmesonde Deliusweg
+2919_02_1614,"32,491,895.95","5,882,547.71",2.00,39.00,54.00,15.00,-37.00,-52.00,Mittelsand,"Mittelsand, feinsandig (stark), ?? (schwach)",3 – mittel,Erdwärmesonde Deliusweg
+2919_02_1614,"32,491,895.95","5,882,547.71",2.00,54.00,57.00,3.00,-52.00,-55.00,Schluff,"Schluff, kiesig (schwach), sandig (sehr schwach)",6 – sehr gering,Erdwärmesonde Deliusweg
+2919_02_1614,"32,491,895.95","5,882,547.71",2.00,57.00,62.00,5.00,-55.00,-60.00,Feinsand,"Feinsand, mittelsandig (schwach)",4 – mäßig,Erdwärmesonde Deliusweg
+2919_02_1614,"32,491,895.95","5,882,547.71",2.00,62.00,66.00,4.00,-60.00,-64.00,Schluff,"Schluff, feinsandig (schwach), tonig (sehr schwach)",6 – sehr gering,Erdwärmesonde Deliusweg
+2919_02_1614,"32,491,895.95","5,882,547.71",2.00,66.00,69.00,3.00,-64.00,-67.00,Feinsand,"Feinsand, mittelsandig (schwach)",4 – mäßig,Erdwärmesonde Deliusweg
+2919_02_1614,"32,491,895.95","5,882,547.71",2.00,69.00,69.50,0.50,-67.00,-67.50,Schluff,"Schluff, feinsandig (schwach), tonig (sehr schwach)",6 – sehr gering,Erdwärmesonde Deliusweg
+2919_02_1614,"32,491,895.95","5,882,547.71",2.00,69.50,81.00,11.50,-67.50,-79.00,Feinsand,"Feinsand, mittelsandig (sehr schwach)",4 – mäßig,Erdwärmesonde Deliusweg
+2919_03_0981,"32,492,376.75","5,882,241.83",3.00,0.00,2.00,2.00,3.00,1.00,Sand,"Sand, schluffig (schwach)",4 – mäßig,Erdwärmesonde
+2919_03_0981,"32,492,376.75","5,882,241.83",3.00,2.00,4.00,2.00,1.00,-1.00,Feinsand,"Feinsand, mittelsandig (schwach)",4 – mäßig,Erdwärmesonde
+2919_03_0981,"32,492,376.75","5,882,241.83",3.00,4.00,20.00,16.00,-1.00,-17.00,Mittelsand,"Mittelsand, feinsandig (schwach), grobsandig, feinkiesig (sehr schwach)",3 – mittel,Erdwärmesonde
+2919_03_0981,"32,492,376.75","5,882,241.83",3.00,20.00,24.00,4.00,-17.00,-21.00,Grobsand,"Grobsand, mittelsandig (schwach), feinkiesig (schwach), mittelsandig (sehr schwach)",—,Erdwärmesonde
+2919_03_0981,"32,492,376.75","5,882,241.83",3.00,24.00,32.00,8.00,-21.00,-29.00,Mittelsand,"Mittelsand, schluffig (schwach), feinsandig",4 – mäßig,Erdwärmesonde
+2919_03_0981,"32,492,376.75","5,882,241.83",3.00,32.00,40.00,8.00,-29.00,-37.00,Feinsand,"Feinsand, mittelsandig (schwach)",4 – mäßig,Erdwärmesonde
+2919_03_0981,"32,492,376.75","5,882,241.83",3.00,40.00,44.00,4.00,-37.00,-41.00,Schluff,"Schluff, feinsandig",6 – sehr gering,Erdwärmesonde
+2919_03_0981,"32,492,376.75","5,882,241.83",3.00,44.00,48.00,4.00,-41.00,-45.00,Schluff,"Schluff, tonig (schwach), feinsandig (schwach)",6 – sehr gering,Erdwärmesonde
+2919_03_0981,"32,492,376.75","5,882,241.83",3.00,48.00,52.00,4.00,-45.00,-49.00,Feinsand,"Feinsand, schluffig (sehr schwach), mittelsandig (schwach)",4 – mäßig,Erdwärmesonde
+2919_03_0981,"32,492,376.75","5,882,241.83",3.00,52.00,64.00,12.00,-49.00,-61.00,Schluff,"Schluff, tonig (sehr schwach), sandig (schwach), kiesig (schwach)",—,Erdwärmesonde
+2919_03_0981,"32,492,376.75","5,882,241.83",3.00,64.00,68.00,4.00,-61.00,-65.00,Feinsand,"Feinsand, schluffig (sehr schwach), mittelsandig (schwach)",4 – mäßig,Erdwärmesonde
+2919_03_0981,"32,492,376.75","5,882,241.83",3.00,68.00,80.00,12.00,-65.00,-77.00,Feinsand,"Feinsand, mittelsandig (sehr schwach)",4 – mäßig,Erdwärmesonde
+2919_03_0981,"32,492,376.75","5,882,241.83",3.00,80.00,84.00,4.00,-77.00,-81.00,Mittelsand,"Mittelsand, schluffig (schwach), feinsandig",4 – mäßig,Erdwärmesonde
+2919_03_0981,"32,492,376.75","5,882,241.83",3.00,84.00,88.00,4.00,-81.00,-85.00,Mittelsand,"Mittelsand, feinsandig (schwach), grobsandig (schwach)",3 – mittel,Erdwärmesonde
+2919_03_0981,"32,492,376.75","5,882,241.83",3.00,88.00,90.00,2.00,-85.00,-87.00,Feinsand,"Feinsand, schluffig",4 – mäßig,Erdwärmesonde
+2919_03_0754,"32,492,773.60","5,882,796.60",1.74,0.00,0.40,0.40,1.74,1.34,Sand,Sand,1 – sehr hoch,Erdwärmesonde Gartenallee 20
+2919_03_0754,"32,492,773.60","5,882,796.60",1.74,0.40,1.20,0.80,1.34,0.54,Schluff,Schluff,6 – sehr gering,Erdwärmesonde Gartenallee 20
+2919_03_0754,"32,492,773.60","5,882,796.60",1.74,1.20,10.50,9.30,0.54,-8.76,Sand,"Sand, kiesig",3 – mittel,Erdwärmesonde Gartenallee 20
+2919_03_0754,"32,492,773.60","5,882,796.60",1.74,10.50,11.00,0.50,-8.76,-9.26,Steine,Steine,4 – mäßig,Erdwärmesonde Gartenallee 20
+2919_03_0754,"32,492,773.60","5,882,796.60",1.74,11.00,81.00,70.00,-9.26,-79.26,Feinsand,Feinsand,4 – mäßig,Erdwärmesonde Gartenallee 20
+2919_03_0762,"32,492,869.56","5,882,577.69",2.00,0.00,0.50,0.50,2.00,1.50,Sand,Sand,1 – sehr hoch,Erdwärmesonde
+2919_03_0762,"32,492,869.56","5,882,577.69",2.00,0.50,0.60,0.10,1.50,1.40,Sand,"Sand, humos (schwach)",5 – gering,Erdwärmesonde
+2919_03_0762,"32,492,869.56","5,882,577.69",2.00,0.60,2.00,1.40,1.40,0.00,Mittelsand,"Mittelsand, feinsandig, grobsandig (sehr schwach)",3 – mittel,Erdwärmesonde
+2919_03_0762,"32,492,869.56","5,882,577.69",2.00,2.00,8.00,6.00,0.00,-6.00,Mittelsand,"Mittelsand, grobsandig, feinsandig (schwach)",3 – mittel,Erdwärmesonde
+2919_03_0762,"32,492,869.56","5,882,577.69",2.00,8.00,9.00,1.00,-6.00,-7.00,Grobsand,"Grobsand, feinkiesig, mittelsandig (schwach)",2 – hoch,Erdwärmesonde
+2919_03_0762,"32,492,869.56","5,882,577.69",2.00,9.00,15.00,6.00,-7.00,-13.00,Mittelsand,"Mittelsand, feinsandig, grobsandig (schwach)",3 – mittel,Erdwärmesonde
+2919_03_0762,"32,492,869.56","5,882,577.69",2.00,15.00,18.00,3.00,-13.00,-16.00,Grobsand,"Grobsand, feinkiesig, mittelsandig (schwach), steinig (schwach)",2 – hoch,Erdwärmesonde
+2919_03_0762,"32,492,869.56","5,882,577.69",2.00,18.00,24.00,6.00,-16.00,-22.00,Feinsand,"Feinsand, mittelsandig (schwach), schluffig (sehr schwach), ??",4 – mäßig,Erdwärmesonde
+2919_03_0762,"32,492,869.56","5,882,577.69",2.00,24.00,81.00,57.00,-22.00,-79.00,Feinsand,"Feinsand, mittelsandig (schwach), schluffig (sehr schwach), ??, ??",4 – mäßig,Erdwärmesonde

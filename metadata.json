@@ -1,0 +1,6 @@
+{
+  "name": "GeoBremen 3D - Geothermie- & Untergrundmodell",
+  "description": "Wissenschaftliche 3D-Untergrund- und Geothermie-Visualisierung für Bremen: Bohrlochdaten, 3D-Voxel-Interpolation, Wärmeleitfähigkeitsanalyse und VDI 4640 Sondenberechnung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
